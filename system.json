@@ -110,6 +110,12 @@
       "name": "Español",
       "path": "lang/es.json",
       "flags": {}
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
     }
   ],
   "compatibility": {
